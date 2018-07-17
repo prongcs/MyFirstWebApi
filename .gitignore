@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/MyFirstWebApi/bin
+/MyFirstWebApi/obj
+/MyFirstWebApi/Properties
+/TextFile1.txt
+/MyFirstWebApi/jenkinsfile.txt
