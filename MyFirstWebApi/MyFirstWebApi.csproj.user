@@ -4,5 +4,6 @@
     <ShowAllFiles>true</ShowAllFiles>
     <ActiveDebugProfile>IIS Express</ActiveDebugProfile>
     <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+    <AutoRefresh>false</AutoRefresh>
   </PropertyGroup>
 </Project>
